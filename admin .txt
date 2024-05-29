@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <div align="center"><header><h1><marque >Admin login page</marque></h1></header></div>
+    
+ <fieldset>
+    <legend>login user info</legend>
+    <table>
+        <tr>
+            <td><label>User Name</label></td>
+            <td><input type="text" name="txtname"></td>
+        </tr>
+        <tr>
+            <td><label>User Password</label></td>
+            <td><input type="number" name="numname" maxlength="04"></td>
+        </tr>
+        <tr>
+            
+            <td><a href="D:\HTML\FACULTYHTML.html\facultyinfoenter.html"><input type="submit" ></a></td>
+        </tr>
+    </table>
+ </fieldset>
+    
+</body>
+</html>

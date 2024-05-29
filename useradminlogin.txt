@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Faculty loginpage</title>
+</head>
+<body >
+    <div align="center"><header><h1><marque >faculty login page</marque></h1></header></div>
+    
+    <form>
+        
+    <fieldset>
+        <legend>login Page</legend>
+     <table >
+        <tr>
+            <td><label>User Name</label></td>
+            <td><input type="text" name="txtname"></td>
+             </tr> 
+        <tr>
+            <td><label>User Password</label></td>
+            <td><input type="number" name="numname" maxlength="04"></td>
+        </tr>
+        <tr>
+            <td><input type="radio" name="rduser">User</td>
+            <td><input type="radio" name="rdadmin">Admin</td>
+        </tr>
+        <tr>
+            <td><input type="submit" name="submit" value="Enter"></td>
+        </tr>
+     </table>
+    </fieldset>
+    </form>
+</body>
+</html>
